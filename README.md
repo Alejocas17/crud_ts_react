@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Este es el archivo de readme para la prueba técnica de carvajal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto se realizó utilizando typescript, react y mysql
 
 ## Available Scripts
 

@@ -4,6 +4,10 @@
 ## Available Scripts
 
 In the project directory, you can run:
+### `cd ./Front npm i`
+
+Install all the modules needeb by react
+
 
 ### `cd ./Front npm start`
 

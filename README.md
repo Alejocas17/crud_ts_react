@@ -16,4 +16,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 This command will start the server on port http://localhost:8000 and connect with the database
 
-## note that the data base must be on port 3306
+## note that the data base must be on port 3306 and it has to be named as 'db_carvajal' with the user root' and no password.

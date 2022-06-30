@@ -14,6 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `cd ./back npx nodemon`
 
-This command will start the server and connect with the database
+This command will start the server on port http://localhost:8000 and connect with the database
 
 ## note that the data base must be on port 3306

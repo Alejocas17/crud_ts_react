@@ -17,9 +17,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 This command will start the server in development mode
 on port http://localhost:8000 and connect with the database
 
-## tsc
+### tsc
 
-This will build the app
+This will build the app (Must be installed globally)
 
 ### `node ./back/dist/app.js`
 
